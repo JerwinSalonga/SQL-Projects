@@ -5,6 +5,6 @@ This SQL portfolio showcases a collection of projects that focus on data cleanin
 ## Projects
 
 * Project: Tech Layoffs
-	* Description: This project focuses on the cleaning and analysis of [tech layoff data](layoffs/layoffs.csv) spanning from March 11, 2020, when COVID-19 was declared a pandemic, to March 6, 2023. The objective is to examine the patterns and impact of layoffs across different tech industries during this timeframe.
-	* [Data Cleaning SQL Script](layoffs/layoffs_data_cleaning.sql)
-	* [EDA SQL Script](layoffs/layoffs_exploratory_analysis.sql)
+	* Description: This project focuses on the cleaning and analysis of [tech layoff data](layoffs%20dataset/layoffs.csv) spanning from March 11, 2020, when COVID-19 was declared a pandemic, to March 6, 2023. The objective is to examine the patterns and impact of layoffs across different tech industries during this timeframe.
+	* [Data Cleaning SQL Script](layoffs%20dataset/layoffs_data_cleaning.sql)
+	* [EDA SQL Script](layoffs%20dataset/layoffs_exploratory_analysis.sql)
